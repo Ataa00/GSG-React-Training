@@ -1,0 +1,21 @@
+/* 
+    Task 1:
+    - Center the heading on the page.
+    - Make the list items bold and green.
+    - Add a 1px border to the list and set the list’s 
+    background color to light gray.
+*/
+
+.title {
+    text-align: center;
+}
+
+.product_list {
+    border: 1px;
+    background-color: lightgray;
+}
+
+.product_item {
+    font: bold;
+    color: green;
+}
